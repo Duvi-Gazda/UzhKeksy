@@ -6,7 +6,7 @@
     /**
      * UK_Controller
      */
-    class UK_Controller 
+    abstract class UK_Controller implements UK_Controller_Interface
     {
         protected $views_file;
         protected $models_file;

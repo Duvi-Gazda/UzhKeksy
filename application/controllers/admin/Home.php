@@ -11,5 +11,4 @@
         public function pageLoad(){
             $this->load($this->views_file->templates->admin,['data'=>'https://uk.wordpress.org/']);
         }
-
     }

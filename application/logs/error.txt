@@ -1,3 +1,11 @@
+[20.12.02 01:50:30] 
+ Stack trace : #0 /home/david/Sync/it-step/Php_and_Sql/Exam/UzhKeksy/core/Application.php(15): UK\core\Router->resolve()
+#1 /home/david/Sync/it-step/Php_and_Sql/Exam/public/index.php(12): UK\core\Application->run()
+#2 {main}
+[20.12.02 01:50:30] 
+ Stack trace : #0 /home/david/Sync/it-step/Php_and_Sql/Exam/UzhKeksy/core/Application.php(15): UK\core\Router->resolve()
+#1 /home/david/Sync/it-step/Php_and_Sql/Exam/public/index.php(12): UK\core\Application->run()
+#2 {main}
 [20.11.29 18:17:04] Call to undefined method Test::pageLoad()
  Stack trace : #0 /home/david/Sync/it-step/Php_and_Sql/MyPracitce/Framework/php-mvc-framework/application/core/Application.php(16): app\core\Router->resolve()
 #1 /home/david/Sync/it-step/Php_and_Sql/MyPracitce/Framework/php-mvc-framework/public/index.php(10): app\core\Application->run()

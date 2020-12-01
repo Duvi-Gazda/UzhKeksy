@@ -53,7 +53,7 @@
             if($filePath == null){
                 $filePath = $this->logPath;
             }
-            $text = date("y.m.d H:i:s") .' '. $text ."\n";
+            $text = '[' . date("y.m.d H:i:s") .'] '. $text ."\n";
             // $file = fopen($filePath,'a');
             // fwrite($file,$text);
             // fclose($file);
